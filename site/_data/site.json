@@ -1,0 +1,12 @@
+{
+  "identity": {
+    "name": "Alex Example",
+    "contact_email": "alex.example@example.org",
+    "primary_profile": "https://github.com/example"
+  },
+  "site": {
+    "title": "Alex Example - Academic Site",
+    "description": "Placeholder starter content. Replace the identity block and the front page.",
+    "base_url": "https://example.org"
+  }
+}

@@ -1,0 +1,38 @@
+/* Quillmark theme - core layout */
+:root {
+  --qm-ink: #1f2933;
+  --qm-muted: #52606d;
+  --qm-paper: #fbf8f1;
+}
+
+.masthead {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem 2rem;
+  border-bottom: 1px solid #e4dccd;
+  background: var(--qm-paper);
+}
+
+.masthead__brand {
+  display: flex;
+  flex-direction: column;
+}
+
+.masthead__title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--qm-ink);
+}
+
+.masthead__nav a {
+  margin-left: 1rem;
+  color: var(--qm-muted);
+  text-decoration: none;
+}
+
+.page {
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 2rem;
+}
