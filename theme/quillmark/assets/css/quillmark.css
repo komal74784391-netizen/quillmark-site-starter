@@ -36,3 +36,5 @@
   margin: 0 auto;
   padding: 2rem;
 }
+
+.palette-sand { --qm-accent: #c4794f; }
