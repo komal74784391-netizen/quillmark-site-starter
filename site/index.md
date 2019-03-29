@@ -10,7 +10,7 @@ copy that should be replaced by the person who owns the site.
 
 ## About
 
-This paragraph is the short biography slot. Replace it.
+This paragraph is the short biography slot for the site owner.
 
 ## Research
 
