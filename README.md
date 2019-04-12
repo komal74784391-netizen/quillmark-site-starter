@@ -14,3 +14,5 @@ by the Quillmark theme group.
     python build.py
 
 Set the identity block in `site/_data/site.json`, then edit `site/index.md`.
+
+The rendered output is written to `_site/`.
