@@ -7,7 +7,7 @@ OUT = Path("_site")
 
 
 def main() -> None:
-    OUT.mkdir(exist_ok=True)
+    OUT.mkdir(parents=True, exist_ok=True)
     (OUT / "index.html").write_text("<!-- rendered -->\n", encoding="utf-8")
     print("Rendered", OUT)
 
