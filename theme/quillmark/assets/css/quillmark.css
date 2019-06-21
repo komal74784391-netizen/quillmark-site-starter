@@ -40,3 +40,5 @@
 .palette-sand { --qm-accent: #c4794f; }
 
 .masthead__subtitle { font-weight: 400; color: var(--qm-muted); }
+
+h2 { line-height: 1.25; }
