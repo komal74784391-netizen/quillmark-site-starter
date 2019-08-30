@@ -18,3 +18,5 @@ Set the identity block in `site/_data/site.json`, then edit `site/index.md`.
 The rendered output is written to `_site/`.
 
 No build dependencies are required beyond Python 3.
+
+Theme options live in `theme/quillmark/_config.yml`.
