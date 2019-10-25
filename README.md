@@ -20,3 +20,8 @@ The rendered output is written to `_site/`.
 No build dependencies are required beyond Python 3.
 
 Theme options live in `theme/quillmark/_config.yml`.
+
+## Configurable profile header
+
+The header can show an avatar, social links and an affiliation line.
+Adjust the options in the theme configuration file.
