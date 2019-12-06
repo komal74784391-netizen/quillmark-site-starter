@@ -1,3 +1,5 @@
 /* utility helpers */
 
 .u-flow > * + * { margin-top: 1rem; }
+
+.u-muted { color: var(--qm-muted); }
