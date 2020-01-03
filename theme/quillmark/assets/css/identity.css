@@ -6,3 +6,5 @@
 }
 
 .identity-card__meta { display: flex; flex-direction: column; gap: 0.25rem; }
+
+.identity-card__avatar { border-radius: 50%; }
