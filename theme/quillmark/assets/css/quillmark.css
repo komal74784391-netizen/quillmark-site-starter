@@ -50,3 +50,5 @@ h2 { line-height: 1.25; }
 ul.tight { margin: 0.25rem 0; }
 
 .citation { font-size: 0.9rem; }
+
+a:focus-visible { outline: 2px solid #c4794f; }
