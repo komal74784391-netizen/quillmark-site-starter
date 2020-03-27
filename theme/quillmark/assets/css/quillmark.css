@@ -54,3 +54,5 @@ ul.tight { margin: 0.25rem 0; }
 a:focus-visible { outline: 2px solid #c4794f; }
 
 body { font-size: 16px; }
+
+table { max-width: 100%; overflow-x: auto; }
