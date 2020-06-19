@@ -58,3 +58,5 @@ body { font-size: 16px; }
 table { max-width: 100%; overflow-x: auto; }
 
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+
+.masthead { max-width: 72rem; margin: 0 auto; }
