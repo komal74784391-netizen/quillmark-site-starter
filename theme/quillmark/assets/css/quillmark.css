@@ -62,3 +62,5 @@ table { max-width: 100%; overflow-x: auto; }
 .masthead { max-width: 72rem; margin: 0 auto; }
 
 .footnote { font-size: 0.8rem; }
+
+.masthead__nav a { text-underline-offset: 3px; }
