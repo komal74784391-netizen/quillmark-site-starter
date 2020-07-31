@@ -25,3 +25,5 @@ Theme options live in `theme/quillmark/_config.yml`.
 
 The header can show an avatar, social links and an affiliation line.
 Adjust the options in the theme configuration file.
+
+Screenshots are generated from the sample site.
