@@ -5,4 +5,4 @@ layout: page
 
 # Publications
 
-No entries yet. Replace this page with the publication index.
+Publication index for the site owner.
